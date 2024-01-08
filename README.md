@@ -1,4 +1,4 @@
-# Quizzical
+# uUnit Conversion
 ## Features
 A simple app created using vanilla javascript with the aim of different conversions of one unit to another.
 
